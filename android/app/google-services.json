@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488407155466",
+    "project_id": "azalea-b6b5c",
+    "storage_bucket": "azalea-b6b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488407155466:android:2531058ee2ff817c8270f3",
+        "android_client_info": {
+          "package_name": "com.app.Azalea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFv4f7yhOYUq0f4BtH6f95lFSdeQg1J3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
